@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# Добавляем путь к TeX в переменную окружения PATH
+export PATH=/Library/TeX/texbin:$PATH
+
+echo "Running pre-commit hook: Generating PDF files..."
+make pdf
+
+# Check if PDF generation was successful
+if [ $? -ne 0 ]; then
+    echo "Error: PDF generation failed. Commit aborted."
+    exit 1
+fi
+
+echo "PDF files generated successfully."
+exit 0

@@ -1,80 +1,80 @@
-# Anton Lobanov
+# Антон Лобанов
 
-## Contact information
-- **Location:** Saint Petersburg, Russia | Dubai, UAE
+## Контактная информация
+- **Местоположение:** Санкт-Петербург, Россия | Дубай, ОАЭ
 - **Email:** alobanov11@gmail.com
 - **GitHub:** [github.com/alobanov11](https://github.com/alobanov11)
 - **LinkedIn:** [linkedin.com/anton-lobanov](https://www.linkedin.com/in/anton-lobanov-7456351a3/)
-- **AppStore:** [apps.apple.com/anton-lobanov](https://apps.apple.com/tr/developer/anton-lobanov/id1533690815?see-all=i-phone-apps)
+- **App Store:** [apps.apple.com/anton-lobanov](https://apps.apple.com/tr/developer/anton-lobanov/id1533690815?see-all=i-phone-apps)
 
-## About me
-Senior iOS developer with 7+ years of native iOS (and 11+ years in development). Strengths — Swift, UIKit/SwiftUI, MVI/TCA architecture, testing (XCTest/XCUITest), CI/CD (Fastlane/GitHub Actions/Gitlab), Server-Driven UI. Experience in mentoring, interviewing, and cross-functional work in English-speaking teams.
+## Обо мне
+Старший iOS‑разработчик с 7+ годами опыта нативной разработки под iOS (и 11+ лет в разработке в целом). Сильные стороны — Swift, UIKit/SwiftUI, архитектуры MVI/TCA, тестирование (XCTest/XCUITest), CI/CD (Fastlane/GitHub Actions/GitLab), Server‑Driven UI. Опыт менторства, проведения интервью и кросс‑функциональной работы в англоязычных командах.
 
-## Work experience
+## Опыт работы
 
-### Senior iOS Developer | Tabby (Fintech, BNPL)
-*March 2023 – present (1 year 9 months) | Dubai, UAE*
+### Старший iOS-разработчик | Tabby (финтех, BNPL)
+*Март 2023 – настоящее время (1 год 9 месяцев) | Дубай, ОАЭ*
 
-- Led more than 20 features, including major ones:
-- filter redesign (3 developers, 1 designer): reduced product search time by 30%, which led to a 4.2% increase in conversion to purchase
-- implementation of cashback on special offers (4 teams, 6 months): increased GMV by 25% in the first month
-- Implemented a mechanism for tracking ad visibility: led to a 15% increase in CPM
-- Regularly took on backend tasks on Go (creating a microservice, fixes, performance tuning) to unlock the team and speed up the delivery of features for Ads services
+- Лидировал более 20 проектов, включая крупные:
+  - редизайн фильтров (3 разработчика, 1 дизайнер): сократил время поиска продуктов на 30%, что привело к увеличению конверсии в покупку на 4,2%
+  - внедрение кэшбэка на специальные предложения (4 команды, 6 месяцев): увеличил GMV на 25% в первый месяц
+- Реализовал механизм трекинга видимости рекламы, что привело к увеличению CPM на 15%
+- Регулярно брал задачи по бэкенду на Go (создание микросервиса, фиксы, тюнинг производительности) для разблокировки команды и ускорения доставки фичей для ads сервисов
 
-### iOS Tech Lead | MDK (Social Network)
-*March 2020 – January 2023 (2 years 10 months) | Moscow, Russia*
+### Технический лидер iOS | MDK (Социальная сеть)
+*Март 2020 – Январь 2023 (2 года 10 месяцев) | Москва, Россия*
 
-- Organized the development process: 2-week sprints, code review (100% coverage), pair programming for complex tasks
-- Optimized the main application feed: FPS from 35–45 → 55–60, time in feed +[10–15]%, support requests about lags −[70–80]%
-- Step-by-step modernized the architecture without stopping the development of new features: from a massive ViewController (3000+ lines) to a modular architecture
-- Increased stability: crash-free rate increased from 95% to 99.5% through systematic crash fixing and defensive programming
-- Set up CI/CD together: automatic builds reduced release time from 2 days to 2 hours
+- Организовал процесс разработки: 2-недельные спринты, код-ревью (100% покрытие), грумминги, design hand-off
+- Оптимизировал основную ленту приложения: FPS с 35–45 → 55–60, время в ленте +10–15%, запросы в поддержку о лагах −70–80%
+- Поэтапно модернизировал архитектуру без остановки разработки новых функций: от массивного ViewController (3000+ строк) к модульной архитектуре
+- Повысил стабильность: уровень crash free вырос с 95% до 99,5% за счёт улучшения архитектуры
+- Настроил CI/CD: автоматические сборки сократили время релиза с 2 дней до 2 часов
 
-**Reason for leaving:** The company focused on the web3 direction, iOS development became less of a priority
+**Причина ухода:** Компания сосредоточилась на направлении web3, разработка под iOS стала менее приоритетной
 
-### iOS Developer | Vyyer Technologies (Part-time contract)
-*Nov 2021 – Apr 2022 (6 months, 20 hours/week) | San Francisco, US*
+### iOS-разработчик | Vyyer Technologies (Контракт на неполный рабочий день)
+*Ноябрь 2021 – Апрель 2022 (6 месяцев, 20 часов/неделя) | Сан-Франциско, США*
 
-**Context:** Short-term contract to create an MVP, in parallel with the main job (agreed with the employer)
+**Контекст:** Краткосрочный контракт на создание MVP, параллельно с основной работой (согласованно с работодателем)
 
-- Delivered a working MVP for presentation to investors on time (3 months), which helped close the seed round
-- Managed a team (iOS/Android/Backend); requirements, documentation, decomposition, planning; communication with clients in English
+- Сдал рабочий MVP для презентации инвесторам в срок (3 месяца), что помогло закрыть seed‑раунд
+- Управлял командой (iOS/Android/Backend); требования, документация, декомпозиция, планирование; коммуникация с клиентами на английском языке
 
-### iOS Developer | CFT Group | KoronaPay (Financial software)
-*Sept 2019 – Mar 2020 (7 months) | Saint Petersburg*
+### iOS-разработчик | CFT Group | KoronaPay (Финансовое ПО)
+*Сентябрь 2019 – Март 2020 (7 месяцев) | Санкт-Петербург*
 
-- Implemented a new authorization flow together with the UX team: reduced churn at the registration stage by 20%
-- Participated in updating the code base from Objc to Swift through unit/UI test coverage (TDD), the share of Objc dropped from 60% to 30.5%
-- Initiated 10+ mob programming sessions for complex tasks, topics, improving knowledge sharing
+- Реализовал новый флоу авторизации совместно с UX‑командой: сократил отток на этапе регистрации на 20%
+- Участвовал в обновлении кодовой базы с Objective‑C на Swift через покрытие unit/UI‑тестами (TDD), доля Objective‑C снизилась с 60% до 30,5%
+- Инициировал более 10 сессий mob‑программирования для сложных задач и тем, улучшая обмен знаниями
 
-**Reason for leaving:** Received an offer for a position with greater responsibility and the ability to influence the product
+**Причина ухода:** Получил предложение на позицию с большей ответственностью и возможностью влиять на продукт
 
-### iOS Developer | E-ngineers (Mobile Development)
-*February 2018 – September 2019 (1 year 7 months) | Saint Petersburg*
+### iOS-разработчик | E-ngineers (Мобильная разработка)
+*Февраль 2018 – Сентябрь 2019 (1 год 7 месяцев) | Санкт-Петербург*
 
-- Designed a video call module; integrated WebRTC from scratch
-- Integrated MapKit and AVFoundation into a travel app (~1k DAU)
-- Participated in migration from Cordova to native modules
+- Спроектировал модуль видеозвонков; интегрировал WebRTC с нуля
+- Интегрировал MapKit и AVFoundation в приложение для путешествий (~1k DAU)
+- Участвовал в миграции с Cordova на нативные модули
 
-**Reason for leaving:** The company abandoned iOS product development
+**Причина ухода:** Компания отказалась от разработки продуктов под iOS
 
-### Frontend Developer | Previous experience
-*2013 – 2018 (5 years)*
+### Frontend-разработчик | Предыдущий опыт
+*2013 – 2018 (5 лет)*
 
-- zubza.ru — Frontend (2016–2018): React Native, TypeScript, SASS, Webpack; website ~10k DAU
-- AstraMediaGroup — Web (2013–2016): PHP/MySQL/JS; development of online stores, plugins for CMS
+- zubza.ru — Frontend (2016–2018): React Native, TypeScript, Sass, Webpack; сайт ~10k DAU
+- AstraMediaGroup — Web (2013–2016): PHP/MySQL/JS; разработка интернет‑магазинов и плагинов для CMS
 
-## Key skills
+## Ключевые навыки
 
 - **iOS Core:** Swift, SwiftUI/UIKit, Combine, async/await, Core Data
-- **Architecture:** MVVM, MVI, VIPER, Clean Architecture, modularity (SPM)
-- **Tools:** XCTest, XCUITest, TDD, Instruments, Crashlytics, Fastlane, Git, GitHub Actions, SPM/CocoaPods
-- **Platform/Features:** Payments (Apple Pay/Stripe), Authentication (OAuth/2FA), Push, Deep/Universal Links, WebSockets, Nearby Interactions
-- **Other:** SDK development, Kotlin Multiplatform (iOS consumption), Server-Driven UI, A/B testing, analytics
+- **Архитектура:** MVVM, MVI, VIPER, Clean Architecture, модульность (SPM)
+- **Инструменты:** XCTest, XCUITest, TDD, Instruments, Crashlytics, Fastlane, Git, GitHub Actions, SPM/CocoaPods
+- **Платформа/Функции:** Платежи (Apple Pay/Stripe), Аутентификация (OAuth/2FA), Push, Deep/Universal Links, WebSockets, Nearby Interactions
+- **Другое:** Разработка SDK, Kotlin Multiplatform (использование на iOS), Server‑Driven UI, A/B‑тестирование, аналитика
 
-## Pet projects
-- Love Rules — iOS app with 16,000 MAU; growth mechanics (sharing + deep links), onboarding; full cycle (Swift/SwiftUI, NodeJS, Firebase, Fastlane).
-- 7 more iOS apps — each ≥100 DAU; utilities/wellness/finance; common stack: Swift/SwiftUI, SPM, analytics, offline-first, widgets.
+## Личные проекты
+- Love Rules — iOS‑приложение с 16 000 MAU; механики роста (sharing + deep links), онбординг; полный цикл (Swift/SwiftUI, Node.js, Firebase, Fastlane).
+- Ещё 7 iOS‑приложений — каждое ≥100 DAU; утилиты/здоровье/финансы; общий стек: Swift/SwiftUI, SPM, аналитика, offline‑first, виджеты.
 
-## Education
-**SPbSUT** — Radio Engineering (2012-2017)
+## Образование
+**СПбГУТ** — Радиотехника (2012–2017)
