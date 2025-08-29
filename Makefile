@@ -22,7 +22,7 @@ ru.pdf: ru.md
 clean:
 	rm -f en.pdf ru.pdf
 
-setup-hooks: install
+setup-hooks:
 	cp -f .git/hooks/pre-commit .git/hooks/pre-commit.backup 2>/dev/null || true
 	cp -f pre-commit .git/hooks/
 	chmod +x .git/hooks/pre-commit

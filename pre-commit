@@ -12,5 +12,8 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-echo "PDF files generated successfully."
+# Добавляем сгенерированные PDF файлы в индекс git
+git add en.pdf ru.pdf
+
+echo "PDF files generated and added to commit successfully."
 exit 0
