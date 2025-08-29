@@ -13,7 +13,7 @@ Senior iOS developer with 7+ years of native iOS development (and 11+ years in s
 ## Work experience
 
 ### Senior iOS Developer | Tabby (Fintech, BNPL)
-*March 2023 – present (1 year 9 months) | Dubai, UAE*
+*March 2023 – present (2 year 5 months) | Dubai, UAE*
 
 - Led more than 20 features, including major initiatives:
 	- Filter redesign (3 developers, 1 designer): reduced product search time by 30%, leading to a 4.2% increase in purchase conversion
@@ -24,7 +24,7 @@ Senior iOS developer with 7+ years of native iOS development (and 11+ years in s
 ### iOS Tech Lead | MDK (Social Network)
 *March 2020 – January 2023 (2 years 10 months) | Moscow, Russia*
 
-- Organized the development process: 2-week sprints, code reviews (100% coverage), grooming, design hand off
+- Organized the development process: 2-week sprints, code reviews (100% coverage), grooming, design handoff
 - Optimized the main application feed: FPS from 35–45 → 55–60, time in feed +10–15%, support requests about lags −70–80%
 - Incrementally modernized the architecture without stopping the development of new features: from a massive ViewController (3000+ lines) to a modular architecture
 - Increased stability: crash-free rate increased from 95% to 99.5% through improving architecture
@@ -41,7 +41,7 @@ Senior iOS developer with 7+ years of native iOS development (and 11+ years in s
 - Managed a team (iOS/Android/Backend); requirements, documentation, decomposition, planning; client communication in English
 
 ### iOS Developer | CFT Group | KoronaPay (Financial software)
-*Sept 2019 – Mar 2020 (7 months) | Saint Petersburg*
+*September 2019 – Mar 2020 (7 months) | Saint Petersburg*
 
 - Implemented a new authorization flow together with the UX team: reduced churn at the registration stage by 20%
 - Participated in updating the codebase from Objective‑C to Swift by covering the code with unit/UI tests (TDD); the share of Objective‑C dropped from 60% to 30.5%
